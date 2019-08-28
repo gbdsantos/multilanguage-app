@@ -8,6 +8,12 @@ Aplicação multi-idiomas feita com ReactJS.
 yarn start
 ```
 
+## Dependências
+
+```Shell
+yarn add i18next i18next-browser-languagedetector
+```
+
 ## :bust_in_silhouette: Autor
 
 **Guilherme Bezerra**
